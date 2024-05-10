@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bendy.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BENDY_down0000" x="0" y="0" width="942" height="953" frameX="0" frameY="-14" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0001" x="0" y="0" width="942" height="953" frameX="0" frameY="-14" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0002" x="942" y="0" width="924" height="968" frameX="-6" frameY="0" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0003" x="942" y="0" width="924" height="968" frameX="-6" frameY="0" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0004" x="1866" y="0" width="914" height="965" frameX="-7" frameY="-3" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0005" x="1866" y="0" width="914" height="965" frameX="-7" frameY="-3" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0006" x="2780" y="0" width="907" height="957" frameX="-7" frameY="-11" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0007" x="2780" y="0" width="907" height="957" frameX="-7" frameY="-11" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0008" x="2780" y="0" width="907" height="957" frameX="-7" frameY="-11" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0009" x="2780" y="0" width="907" height="957" frameX="-7" frameY="-11" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0010" x="2780" y="0" width="907" height="957" frameX="-7" frameY="-11" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0011" x="2780" y="0" width="907" height="957" frameX="-7" frameY="-11" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0012" x="2780" y="0" width="907" height="957" frameX="-7" frameY="-11" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_down0013" x="2780" y="0" width="907" height="957" frameX="-7" frameY="-11" frameWidth="942" frameHeight="968"/>
+	<SubTexture name="BENDY_idle0000" x="3687" y="0" width="899" height="1157" frameX="-2" frameY="-4" frameWidth="901" frameHeight="1161"/>
+	<SubTexture name="BENDY_idle0001" x="3687" y="0" width="899" height="1157" frameX="-2" frameY="-4" frameWidth="901" frameHeight="1161"/>
+	<SubTexture name="BENDY_idle0002" x="4586" y="0" width="901" height="1161"/>
+	<SubTexture name="BENDY_idle0003" x="4586" y="0" width="901" height="1161"/>
+	<SubTexture name="BENDY_idle0004" x="5487" y="0" width="889" height="1155" frameX="-10" frameY="-6" frameWidth="901" frameHeight="1161"/>
+	<SubTexture name="BENDY_idle0005" x="5487" y="0" width="889" height="1155" frameX="-10" frameY="-6" frameWidth="901" frameHeight="1161"/>
+	<SubTexture name="BENDY_idle0006" x="6376" y="0" width="874" height="1153" frameX="-13" frameY="-8" frameWidth="901" frameHeight="1161"/>
+	<SubTexture name="BENDY_idle0007" x="6376" y="0" width="874" height="1153" frameX="-13" frameY="-8" frameWidth="901" frameHeight="1161"/>
+	<SubTexture name="BENDY_idle0008" x="7250" y="0" width="870" height="1151" frameX="-13" frameY="-10" frameWidth="901" frameHeight="1161"/>
+	<SubTexture name="BENDY_idle0009" x="7250" y="0" width="870" height="1151" frameX="-13" frameY="-10" frameWidth="901" frameHeight="1161"/>
+	<SubTexture name="BENDY_idle0010" x="7250" y="0" width="870" height="1151" frameX="-13" frameY="-10" frameWidth="901" frameHeight="1161"/>
+	<SubTexture name="BENDY_idle0011" x="7250" y="0" width="870" height="1151" frameX="-13" frameY="-10" frameWidth="901" frameHeight="1161"/>
+	<SubTexture name="BENDY_idle0012" x="7250" y="0" width="870" height="1151" frameX="-13" frameY="-10" frameWidth="901" frameHeight="1161"/>
+	<SubTexture name="BENDY_idle0013" x="7250" y="0" width="870" height="1151" frameX="-13" frameY="-10" frameWidth="901" frameHeight="1161"/>
+	<SubTexture name="BENDY_left0000" x="0" y="1161" width="1307" height="1187" frameX="0" frameY="-2" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0001" x="0" y="1161" width="1307" height="1187" frameX="0" frameY="-2" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0002" x="1307" y="1161" width="1268" height="1189" frameX="-45" frameY="0" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0003" x="1307" y="1161" width="1268" height="1189" frameX="-45" frameY="0" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0004" x="2575" y="1161" width="1227" height="1189" frameX="-85" frameY="0" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0005" x="2575" y="1161" width="1227" height="1189" frameX="-85" frameY="0" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0006" x="3802" y="1161" width="1221" height="1189" frameX="-89" frameY="0" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0007" x="3802" y="1161" width="1221" height="1189" frameX="-89" frameY="0" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0008" x="3802" y="1161" width="1221" height="1189" frameX="-89" frameY="0" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0009" x="3802" y="1161" width="1221" height="1189" frameX="-89" frameY="0" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0010" x="3802" y="1161" width="1221" height="1189" frameX="-89" frameY="0" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0011" x="3802" y="1161" width="1221" height="1189" frameX="-89" frameY="0" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0012" x="3802" y="1161" width="1221" height="1189" frameX="-89" frameY="0" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_left0013" x="3802" y="1161" width="1221" height="1189" frameX="-89" frameY="0" frameWidth="1313" frameHeight="1189"/>
+	<SubTexture name="BENDY_right0000" x="5023" y="1161" width="955" height="1120" frameX="-5" frameY="0" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0001" x="5023" y="1161" width="955" height="1120" frameX="-5" frameY="0" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0002" x="5978" y="1161" width="934" height="1118" frameX="0" frameY="-2" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0003" x="5978" y="1161" width="934" height="1118" frameX="0" frameY="-2" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0004" x="6912" y="1161" width="913" height="1116" frameX="-9" frameY="-4" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0005" x="6912" y="1161" width="913" height="1116" frameX="-9" frameY="-4" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0006" x="0" y="2350" width="906" height="1112" frameX="-12" frameY="-8" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0007" x="0" y="2350" width="906" height="1112" frameX="-12" frameY="-8" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0008" x="906" y="2350" width="903" height="1112" frameX="-12" frameY="-8" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0009" x="906" y="2350" width="903" height="1112" frameX="-12" frameY="-8" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0010" x="906" y="2350" width="903" height="1112" frameX="-12" frameY="-8" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0011" x="906" y="2350" width="903" height="1112" frameX="-12" frameY="-8" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0012" x="906" y="2350" width="903" height="1112" frameX="-12" frameY="-8" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_right0013" x="906" y="2350" width="903" height="1112" frameX="-12" frameY="-8" frameWidth="960" frameHeight="1120"/>
+	<SubTexture name="BENDY_up0000" x="1809" y="2350" width="967" height="1224" frameX="0" frameY="0" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0001" x="1809" y="2350" width="967" height="1224" frameX="0" frameY="0" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0002" x="2776" y="2350" width="945" height="1199" frameX="-22" frameY="-24" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0003" x="2776" y="2350" width="945" height="1199" frameX="-22" frameY="-24" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0004" x="3721" y="2350" width="920" height="1186" frameX="-48" frameY="-37" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0005" x="3721" y="2350" width="920" height="1186" frameX="-48" frameY="-37" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0006" x="4641" y="2350" width="915" height="1182" frameX="-53" frameY="-41" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0007" x="4641" y="2350" width="915" height="1182" frameX="-53" frameY="-41" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0008" x="5556" y="2350" width="915" height="1179" frameX="-53" frameY="-44" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0009" x="5556" y="2350" width="915" height="1179" frameX="-53" frameY="-44" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0010" x="5556" y="2350" width="915" height="1179" frameX="-53" frameY="-44" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0011" x="5556" y="2350" width="915" height="1179" frameX="-53" frameY="-44" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0012" x="5556" y="2350" width="915" height="1179" frameX="-53" frameY="-44" frameWidth="968" frameHeight="1224"/>
+	<SubTexture name="BENDY_up0013" x="5556" y="2350" width="915" height="1179" frameX="-53" frameY="-44" frameWidth="968" frameHeight="1224"/>
+</TextureAtlas>

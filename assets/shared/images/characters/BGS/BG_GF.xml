@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG GF.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF_idle0000" x="0" y="0" width="813" height="1391" frameX="-13" frameY="-12" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0001" x="0" y="0" width="813" height="1391" frameX="-13" frameY="-12" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0002" x="813" y="0" width="831" height="1403" frameX="-5" frameY="0" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0003" x="813" y="0" width="831" height="1403" frameX="-5" frameY="0" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0004" x="1644" y="0" width="781" height="1387" frameX="-32" frameY="-16" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0005" x="1644" y="0" width="781" height="1387" frameX="-32" frameY="-16" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0006" x="2425" y="0" width="730" height="1375" frameX="-49" frameY="-28" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0007" x="2425" y="0" width="730" height="1375" frameX="-49" frameY="-28" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0008" x="3155" y="0" width="727" height="1372" frameX="-49" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0009" x="3155" y="0" width="727" height="1372" frameX="-49" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0010" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0011" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0012" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0013" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0014" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0015" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0016" x="4604" y="0" width="799" height="1388" frameX="-4" frameY="-15" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0017" x="4604" y="0" width="799" height="1388" frameX="-4" frameY="-15" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0018" x="5403" y="0" width="802" height="1390" frameX="0" frameY="-13" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0019" x="5403" y="0" width="802" height="1390" frameX="0" frameY="-13" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0020" x="6205" y="0" width="779" height="1383" frameX="-12" frameY="-20" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0021" x="6205" y="0" width="779" height="1383" frameX="-12" frameY="-20" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0022" x="6984" y="0" width="738" height="1374" frameX="-42" frameY="-29" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0023" x="6984" y="0" width="738" height="1374" frameX="-42" frameY="-29" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0024" x="0" y="1403" width="728" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0025" x="0" y="1403" width="728" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0026" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0027" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0028" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0029" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0030" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0031" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0032" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_idle0033" x="3882" y="0" width="722" height="1372" frameX="-53" frameY="-31" frameWidth="836" frameHeight="1403"/>
+	<SubTexture name="GF_miss0000" x="728" y="1403" width="764" height="1378"/>
+	<SubTexture name="GF_miss0001" x="728" y="1403" width="764" height="1378"/>
+	<SubTexture name="GF_miss0002" x="1492" y="1403" width="738" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+	<SubTexture name="GF_miss0003" x="1492" y="1403" width="738" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+	<SubTexture name="GF_miss0004" x="2230" y="1403" width="733" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+	<SubTexture name="GF_miss0005" x="2230" y="1403" width="733" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+	<SubTexture name="GF_miss0006" x="1492" y="1403" width="738" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+	<SubTexture name="GF_miss0007" x="1492" y="1403" width="738" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+	<SubTexture name="GF_miss0008" x="1492" y="1403" width="738" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+	<SubTexture name="GF_miss0009" x="1492" y="1403" width="738" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+	<SubTexture name="GF_miss0010" x="1492" y="1403" width="738" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+	<SubTexture name="GF_miss0011" x="1492" y="1403" width="738" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+	<SubTexture name="GF_miss0012" x="1492" y="1403" width="738" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+	<SubTexture name="GF_miss0013" x="1492" y="1403" width="738" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+	<SubTexture name="GF_miss0014" x="1492" y="1403" width="738" height="1378" frameX="-13" frameY="0" frameWidth="764" frameHeight="1378"/>
+</TextureAtlas>

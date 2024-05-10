@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-16,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "GF_miss"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"indices": [
+				32,
+				33
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "GF_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BGS/BG_GF",
+	"position": [
+		-30,
+		-400
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

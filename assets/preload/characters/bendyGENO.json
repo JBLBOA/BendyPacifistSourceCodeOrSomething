@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BENDY_idle"
+		},
+		{
+			"offsets": [
+				186,
+				15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BENDY_left"
+		},
+		{
+			"offsets": [
+				-62,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BENDY_right"
+		},
+		{
+			"offsets": [
+				43,
+				32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BENDY_up"
+		},
+		{
+			"offsets": [
+				-20,
+				-95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BENDY_down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BGS/BendyGENO",
+	"position": [
+		-200,
+		-80
+	],
+	"healthicon": "geno-test",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		240,
+		210
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}
