@@ -128,8 +128,8 @@
 		-240,
 		-120
 	],
-	"healthicon": "charlie-test",
-	"flip_x": false,
+	"healthicon": "charlie",
+	"flip_x": true,
 	"healthbar_colors": [
 		198,
 		83,
@@ -137,7 +137,7 @@
 	],
 	"camera_position": [
 		10,
-		380
+		370
 	],
 	"sing_duration": 4,
 	"scale": 0.5

@@ -1,78 +1,78 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "BENDY_idle"
+			"fps": 24,
+			"name": "BENDY_idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				186,
-				15
+				206,
+				17
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "BENDY_left"
+			"fps": 24,
+			"name": "BENDY_left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-62,
-				-24
+				-68,
+				-26
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "BENDY_right"
+			"fps": 24,
+			"name": "BENDY_right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				43,
-				32
+				46,
+				37
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "BENDY_up"
+			"fps": 24,
+			"name": "BENDY_up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-20,
-				-95
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN",
 			"loop": false,
-			"name": "BENDY_down"
+			"offsets": [
+				-76,
+				-105
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BENDY_down",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/BGS/BendyGENO",
 	"position": [
 		-200,
-		-80
+		-110
 	],
-	"healthicon": "geno-test",
+	"healthicon": "geno",
 	"flip_x": false,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		198,
+		83,
+		28
 	],
 	"camera_position": [
-		240,
-		210
+		290,
+		250
 	],
 	"sing_duration": 4,
-	"scale": 0.5
+	"scale": 0.55
 }

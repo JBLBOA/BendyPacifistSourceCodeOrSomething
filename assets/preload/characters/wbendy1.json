@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-149,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				114,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-195,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-122,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-184,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-157,
+				-37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "transformers",
+			"loop": true,
+			"name": "SpecialAnim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BGS/BendyBuanderin",
+	"position": [
+		-200,
+		-110
+	],
+	"healthicon": "wbnedy1",
+	"flip_x": false,
+	"healthbar_colors": [
+		198,
+		83,
+		28
+	],
+	"camera_position": [
+		360,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 0.55
+}

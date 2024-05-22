@@ -546,6 +546,22 @@ class PlayState extends MusicBeatState
 				lights.setGraphicSize(Std.int(lights.width * 0.8));
 				foregroundFlxSprites.add(lights);
 				lights.scrollFactor.set(1, 1);
+
+			case "InkstudioBG":
+				studio = new FlxSprite(-1470, -800).loadGraphic(Paths.image("backgrounds/InkstudioBG/INKSTUDIO", "shared"));
+				add(studio);
+				studio.setGraphicSize(Std.int(studio.width * 0.8));
+				studio.scrollFactor.set(1, 1);
+
+				crate = new FlxSprite(-1470, -800).loadGraphic(Paths.image("backgrounds/InkstudioBG/INKCRATE", "shared"));
+				crate.setGraphicSize(Std.int(crate.width * 0.8));
+				foregroundFlxSprites.add(crate);
+				crate.scrollFactor.set(1, 1);
+
+				pillar = new FlxSprite(-1470, -800).loadGraphic(Paths.image("backgrounds/InkstudioBG/INKPILAR", "shared"));
+				pillar.setGraphicSize(Std.int(pillar.width * 0.8));
+				foregroundFlxSprites.add(pillar);
+				pillar.scrollFactor.set(1, 1);
 			
 			case "easterEGG":
 			    studio = new FlxSprite(-1275, -655).loadGraphic(Paths.image("backgrounds/easterEGG/BGMeat", "shared"));
@@ -3113,15 +3129,21 @@ class PlayState extends MusicBeatState
 		if (health > 2)
 			health = 2;
 
+		// Player 1
 		if (healthBar.percent < 20)
-			iconP1.animation.curAnim.curFrame = 1;
+		    iconP1.animation.curAnim.curFrame = 1;
+		else if (healthBar.percent > 85)
+		    iconP1.animation.curAnim.curFrame = 2;
 		else
-			iconP1.animation.curAnim.curFrame = 0;
+		    iconP1.animation.curAnim.curFrame = 0;
 
-		if (healthBar.percent > 80)
-			iconP2.animation.curAnim.curFrame = 1;
-		else
-			iconP2.animation.curAnim.curFrame = 0;
+        // Player 2
+		if (healthBar.percent > 85)
+		    iconP2.animation.curAnim.curFrame = 1;
+		else if (healthBar.percent < 20)
+            iconP2.animation.curAnim.curFrame = 2;
+			else
+		iconP2.animation.curAnim.curFrame = 0;
 
 		if (FlxG.keys.anyJustPressed(debugKeysCharacter) && !endingSong && !inCutscene) {
 			persistentUpdate = false;

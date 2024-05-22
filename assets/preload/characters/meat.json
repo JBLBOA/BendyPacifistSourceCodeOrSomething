@@ -5,74 +5,74 @@
 				0,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
+			"indices": [],
 			"name": "idle"
 		},
 		{
 			"offsets": [
-				150,
-				-20
+				211,
+				-28
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
+			"indices": [],
 			"name": "up"
 		},
 		{
 			"offsets": [
 				0,
-				-55
+				-82
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
+			"indices": [],
 			"name": "down"
 		},
 		{
 			"offsets": [
-				110,
-				-60
+				185,
+				-81
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
+			"indices": [],
 			"name": "left"
 		},
 		{
 			"offsets": [
-				0,
-				-30
+				4,
+				-44
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
+			"indices": [],
 			"name": "right"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/BGS/Ishowmeat",
 	"position": [
-		200,
-		-80
+		190,
+		-190
 	],
-	"healthicon": "geno-test",
+	"healthicon": "meat",
 	"flip_x": false,
 	"healthbar_colors": [
 		198,
-		83,
-		28
+		84,
+		29
 	],
 	"camera_position": [
-		-120,
-		150
+		-170,
+		10
 	],
 	"sing_duration": 4,
-	"scale": 0.7
+	"scale": 1
 }
