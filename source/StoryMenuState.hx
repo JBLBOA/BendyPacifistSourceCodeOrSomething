@@ -23,7 +23,7 @@ using StringTools;
 
 class StoryMenuState extends MusicBeatState
 {
-	public static var weekCompleted:Map<String, Bool> = new Map<String, Bool>();
+	public static var weekCompleted:Map<Int, Bool> = new Map<Int, Bool>();
 
 	var scoreText:FlxText;
 
@@ -97,7 +97,7 @@ class StoryMenuState extends MusicBeatState
 		for (i in 0...WeekData.weeksList.length)
 		{
 			var weekFile:WeekData = WeekData.weeksLoaded.get(WeekData.weeksList[i]);
-			var isLocked:Bool = weekIsLocked(WeekData.weeksList[i]);
+			var isLocked:Bool = false;
 			if(!isLocked || !weekFile.hiddenUntilUnlocked)
 			{
 				loadedWeeks.push(weekFile);
@@ -283,8 +283,8 @@ class StoryMenuState extends MusicBeatState
 
 	function selectWeek()
 	{
-		if (!weekIsLocked(loadedWeeks[curWeek].fileName))
-		{
+		//if (!weekIsLocked(loadedWeeks[curWeek].fileName))
+		//{
 			if (stopspamming == false)
 			{
 				FlxG.sound.play(Paths.sound('confirmMenu'));
@@ -326,9 +326,9 @@ class StoryMenuState extends MusicBeatState
 				LoadingState.loadAndSwitchState(new PlayState(), true);
 				FreeplayState.destroyFreeplayVocals();
 			});
-		} else {
-			FlxG.sound.play(Paths.sound('cancelMenu'));
-		}
+		//} else {
+		//	FlxG.sound.play(Paths.sound('cancelMenu'));
+		//}
 	}
 
 	var tweenDifficulty:FlxTween;
@@ -389,7 +389,7 @@ class StoryMenuState extends MusicBeatState
 
 		var bullShit:Int = 0;
 
-		var unlocked:Bool = !weekIsLocked(leWeek.fileName);
+		var unlocked:Bool = true;
 		for (item in grpWeekText.members)
 		{
 			item.targetY = bullShit - curWeek;
@@ -452,10 +452,10 @@ class StoryMenuState extends MusicBeatState
 		updateText();
 	}
 
-	function weekIsLocked(name:String):Bool {
-		var leWeek:WeekData = WeekData.weeksLoaded.get(name);
-		return (!leWeek.startUnlocked && leWeek.weekBefore.length > 0 && (!weekCompleted.exists(leWeek.weekBefore) || !weekCompleted.get(leWeek.weekBefore)));
-	}
+	//function weekIsLocked(name:String):Bool {
+	//	var leWeek:WeekData = WeekData.weeksLoaded.get(name);
+	//	return (!leWeek.startUnlocked && leWeek.weekBefore.length > 0 && (!weekCompleted.exists(leWeek.weekBefore) || !weekCompleted.get(leWeek.weekBefore)));
+	//}
 
 	function updateText()
 	{

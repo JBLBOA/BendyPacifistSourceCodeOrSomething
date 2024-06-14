@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gear 1.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gear s instance 10000" x="0" y="0" width="217" height="230" frameX="-50" frameY="-44" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10001" x="217" y="0" width="237" height="248" frameX="-40" frameY="-35" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10002" x="454" y="0" width="253" height="264" frameX="-32" frameY="-27" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10003" x="707" y="0" width="267" height="278" frameX="-25" frameY="-20" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10004" x="974" y="0" width="281" height="288" frameX="-18" frameY="-15" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10005" x="1255" y="0" width="292" height="298" frameX="-12" frameY="-10" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10006" x="1547" y="0" width="301" height="306" frameX="-8" frameY="-6" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10007" x="1848" y="0" width="309" height="312" frameX="-4" frameY="-3" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10008" x="2157" y="0" width="313" height="316" frameX="-2" frameY="-1" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10009" x="2470" y="0" width="317" height="318"/>
+	<SubTexture name="gear s instance 10010" x="2787" y="0" width="317" height="316" frameX="0" frameY="-1" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10011" x="3104" y="0" width="315" height="314" frameX="-1" frameY="-2" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10012" x="3419" y="0" width="313" height="308" frameX="-2" frameY="-5" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10013" x="3732" y="0" width="307" height="302" frameX="-5" frameY="-8" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10014" x="0" y="318" width="299" height="292" frameX="-9" frameY="-13" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10015" x="299" y="318" width="289" height="280" frameX="-14" frameY="-19" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10016" x="588" y="318" width="277" height="268" frameX="-20" frameY="-25" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10017" x="865" y="318" width="263" height="252" frameX="-27" frameY="-33" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10018" x="1128" y="318" width="248" height="236" frameX="-34" frameY="-41" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10019" x="1376" y="318" width="231" height="218" frameX="-43" frameY="-50" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10020" x="1607" y="318" width="247" height="236" frameX="-35" frameY="-41" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10021" x="1854" y="318" width="263" height="252" frameX="-27" frameY="-33" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10022" x="2117" y="318" width="275" height="266" frameX="-21" frameY="-26" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10023" x="2392" y="318" width="287" height="278" frameX="-15" frameY="-20" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10024" x="2679" y="318" width="297" height="290" frameX="-10" frameY="-14" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10025" x="2976" y="318" width="305" height="298" frameX="-6" frameY="-10" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10026" x="3281" y="318" width="311" height="306" frameX="-3" frameY="-6" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10027" x="3592" y="318" width="315" height="312" frameX="-1" frameY="-3" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10028" x="0" y="630" width="317" height="316" frameX="0" frameY="-1" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10029" x="317" y="630" width="317" height="317" frameX="0" frameY="0" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10030" x="634" y="630" width="315" height="316" frameX="-1" frameY="-1" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10031" x="949" y="630" width="311" height="314" frameX="-3" frameY="-2" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10032" x="1260" y="630" width="306" height="310" frameX="-5" frameY="-4" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10033" x="1566" y="630" width="299" height="304" frameX="-9" frameY="-7" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10034" x="1865" y="630" width="289" height="296" frameX="-14" frameY="-11" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10035" x="2154" y="630" width="279" height="286" frameX="-19" frameY="-16" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10036" x="2433" y="630" width="265" height="276" frameX="-26" frameY="-21" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10037" x="2698" y="630" width="251" height="262" frameX="-33" frameY="-28" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10038" x="2949" y="630" width="235" height="248" frameX="-41" frameY="-35" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10039" x="3184" y="630" width="217" height="230" frameX="-50" frameY="-44" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10040" x="3401" y="630" width="235" height="248" frameX="-41" frameY="-35" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10041" x="3636" y="630" width="251" height="262" frameX="-33" frameY="-28" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10042" x="0" y="947" width="265" height="274" frameX="-26" frameY="-22" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10043" x="265" y="947" width="277" height="286" frameX="-20" frameY="-16" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10044" x="542" y="947" width="289" height="296" frameX="-14" frameY="-11" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10045" x="831" y="947" width="298" height="304" frameX="-9" frameY="-7" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10046" x="1129" y="947" width="305" height="310" frameX="-6" frameY="-4" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10047" x="1434" y="947" width="311" height="314" frameX="-3" frameY="-2" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10048" x="1745" y="947" width="315" height="316" frameX="-1" frameY="-1" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10049" x="2060" y="947" width="317" height="318"/>
+	<SubTexture name="gear s instance 10050" x="2377" y="947" width="317" height="316" frameX="0" frameY="-1" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10051" x="2694" y="947" width="315" height="312" frameX="-1" frameY="-3" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10052" x="3009" y="947" width="311" height="308" frameX="-3" frameY="-5" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10053" x="3320" y="947" width="305" height="300" frameX="-6" frameY="-9" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10054" x="3625" y="947" width="299" height="292" frameX="-9" frameY="-13" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10055" x="0" y="1265" width="289" height="280" frameX="-14" frameY="-19" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10056" x="289" y="1265" width="279" height="268" frameX="-19" frameY="-25" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10057" x="568" y="1265" width="265" height="255" frameX="-26" frameY="-31" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10058" x="833" y="1265" width="251" height="240" frameX="-33" frameY="-39" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10059" x="1084" y="1265" width="235" height="222" frameX="-41" frameY="-48" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10060" x="1319" y="1265" width="243" height="231" frameX="-37" frameY="-44" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10061" x="1562" y="1265" width="259" height="248" frameX="-29" frameY="-35" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10062" x="1821" y="1265" width="273" height="262" frameX="-22" frameY="-28" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10063" x="2094" y="1265" width="285" height="276" frameX="-16" frameY="-21" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10064" x="2379" y="1265" width="295" height="288" frameX="-11" frameY="-15" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10065" x="2674" y="1265" width="303" height="298" frameX="-7" frameY="-10" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10066" x="2977" y="1265" width="309" height="305" frameX="-4" frameY="-7" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10067" x="3286" y="1265" width="315" height="311" frameX="-1" frameY="-3" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10068" x="3601" y="1265" width="317" height="314" frameX="0" frameY="-2" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10069" x="0" y="1579" width="317" height="316" frameX="0" frameY="-1" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10070" x="317" y="1579" width="315" height="316" frameX="-1" frameY="-1" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10071" x="632" y="1579" width="312" height="314" frameX="-2" frameY="-2" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10072" x="944" y="1579" width="307" height="310" frameX="-5" frameY="-4" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10073" x="1251" y="1579" width="299" height="304" frameX="-9" frameY="-7" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10074" x="1550" y="1579" width="290" height="297" frameX="-13" frameY="-10" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10075" x="1840" y="1579" width="279" height="288" frameX="-19" frameY="-15" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10076" x="2119" y="1579" width="266" height="276" frameX="-25" frameY="-21" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10077" x="2385" y="1579" width="251" height="262" frameX="-33" frameY="-28" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10078" x="2636" y="1579" width="235" height="248" frameX="-41" frameY="-35" frameWidth="317" frameHeight="318"/>
+	<SubTexture name="gear s instance 10079" x="0" y="0" width="217" height="230" frameX="-50" frameY="-44" frameWidth="317" frameHeight="318"/>
+</TextureAtlas>

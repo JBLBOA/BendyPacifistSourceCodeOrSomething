@@ -192,9 +192,9 @@ class TitleState extends MusicBeatState
 			persistentDraw = true;
 		}
 
-		if (FlxG.save.data.weekCompleted != null)
+		if (FlxG.save.data.weekBendyCompleted != null)
 		{
-			StoryMenuState.weekCompleted = FlxG.save.data.weekCompleted;
+			BendyStoryMenuState.weekCompleted = FlxG.save.data.weekBendyCompleted;
 		}
 
 		FlxG.mouse.visible = false;

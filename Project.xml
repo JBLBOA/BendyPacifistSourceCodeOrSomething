@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Bendy's Gerocide DEV BUILD" file="BGS" packageName="com.bendycoders.bgs" package="com.bendycoders.bgs" main="Main" version="0.2.8" company="ShadowMario" />
+	<app title="Bendy's Genocide DEV BUILD" file="Bendy Genocide" packageName="com.bendycoders.bgs" package="com.bendycoders.bgs" main="Main" version="0.2.8" company="ShadowMario" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
