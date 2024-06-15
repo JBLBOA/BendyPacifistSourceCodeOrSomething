@@ -21,6 +21,8 @@ import Achievements;
 import editors.MasterEditorMenu;
 import flixel.input.keyboard.FlxKey;
 import flixel.util.FlxTimer;
+import flixel.addons.display.FlxRuntimeShader;
+import openfl.filters.ShaderFilter;
 
 using StringTools;
 
@@ -44,6 +46,7 @@ class BendyStoryMenuState extends MusicBeatState
         ['test', 'pico'] // Chapter 0
     ];
 
+    public var bloom:ShineShaders;
     override function create()
     {
 		#if desktop
@@ -233,6 +236,10 @@ class BendyStoryMenuState extends MusicBeatState
 
         super.create();
         changeItem();
+
+        bloom = new ShineShaders();
+        light.shader = bloom;
+		//FlxG.camera.setFilters([new ShaderFilter(bloom)]);
     }
 
     var selectedSomthin:Bool = false;
