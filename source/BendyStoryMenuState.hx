@@ -38,7 +38,7 @@ class BendyStoryMenuState extends MusicBeatState
     var arrows:FlxTypedGroup<FlxSprite>;
     var textsGroup:FlxTypedGroup<FlxText>;
     var weekImage:FlxTypedGroup<FlxSprite>;
-    var weekInfoList:Array<Array<String>> = [// songs in order
+    var weekInfoList:Array<Array<String>> = [// weeks in order
         ["Funkin' Pictures", "Every good story begins with a mystery, everything begins with a pencil and a \ndream, the dancing demon knows it, he's waiting to give you a show, \nwould you enter?"] // Chapter 0 Info list
     ];
 
@@ -47,7 +47,7 @@ class BendyStoryMenuState extends MusicBeatState
     ];
 
     public var bloom:ShineShaders;
-    override function create()
+    override function create() // DONT TOUCH ANY OF THESE IF YOU DONT KNOW WHAT TF YOUR DOING, if you wanna add a week just add it in the arrays above me :]
     {
 		#if desktop
 		// Updating Discord Rich Presence
